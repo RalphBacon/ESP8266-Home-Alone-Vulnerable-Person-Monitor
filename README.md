@@ -1,4 +1,4 @@
-# ESP8266-Home-Alone-Vulnerable-Person-Monitor
+# ESP8266 Home Alone (Vulnerable Person Monitor)
 Monitor that a person is still OK without an intrusive camera
 
 My project to monitor that my mum was OK, by monitoring her general activity / movement, has been running for several months now.
